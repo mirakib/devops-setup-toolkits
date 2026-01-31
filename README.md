@@ -3,5 +3,5 @@ This repository is a structured collection of personal notes, essential commands
 ## Server
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/youruser/yourrepo/main/initial-setup.sh | sudo bash -s sammy
+curl -fsSL https://raw.githubusercontent.com/mirakib/devops-setup-toolkits/main/Server/initial-setup.sh -o initial-setup.sh
 ```
